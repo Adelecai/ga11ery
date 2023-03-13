@@ -13,11 +13,6 @@
   <header>
     <div class="caption" id="meta">
       <h1>{{ title }}</h1>
-      {% if date %}
-      <time datetime="{{ date | w3cDateFilter }}">
-        {{ date | dateFilter }}
-      </time>
-      {% endif %}
       {% if description %}
       <button class="q" aria-label="show description" hidden>[?]</button>
       {% endif %}

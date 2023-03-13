@@ -1,10 +1,10 @@
 ---
-title: Peace
+title: Palais des Beaux-Arts, Lille
 image: /images/dsc01297.jpg
 larger: ""
-alt: The sea weaves inland, between eroded rocks. A shoal of fish is seen
-  darting under the water. A woman in a boat and a man swimming enjoy the sun.
-description: This is a pixel art take on the tranditional Chinese shan shui
-  painting style, by Heydon Pickering.
+alt: Au milieu de l'image, une statue représente un cheval chevauché en
+  arrière-plan. Sur la gauche, au premier plan, deux adultes entourent des
+  enfants qui dessinent dans un cahier.
+description: ""
 date: 2020-04-08T15:59:36.910Z
 ---
